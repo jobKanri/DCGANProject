@@ -7,7 +7,7 @@ http://ufldl.stanford.edu/housenumbers/train_32x32.mat
 http://ufldl.stanford.edu/housenumbers/test_32x32.mat  
   
   
-【サンプルデータ格納先】
+【サンプルデータ格納先】  
 dcgan.py 格納ディレクトリを作成し、その中に格納する。  
 ディレクトリ名：data  
 
