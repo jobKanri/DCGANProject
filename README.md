@@ -13,6 +13,10 @@ dcgan.py の格納ディレクトリに以下の名称にてディレクトリ�
 
   
 【環境構築(windows)】  
+・以下よりpython anacondaをダウンロードしインストールする。  
+https://www.anaconda.com/products/individual  
+  
+・以下のコマンド実行し、必要なライブラリ等をインストールする。  
   
 > cd { dcgan.py を格納したディレクトリ }
   
